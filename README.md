@@ -9,3 +9,5 @@ This algorithm associate products preferences by most of the customers and can b
 
 ### ECLAT: 
 In this project I implemented the ECLAT algorithm by hand. It calculate the pairs that have been bought more frequently comparing to other pairs. At the end, we expect to see what is the most common combination of products during the week.
+
+![]"Apriori.png"
