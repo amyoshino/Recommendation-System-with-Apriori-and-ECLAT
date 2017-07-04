@@ -15,11 +15,11 @@ In this project I implemented the ECLAT algorithm by hand. It calculate the pair
 #### Apriori: 
 The table show the "lift" of every combination of products for Apriori algorithm. From the table we can see that the combination that lead to more "attractiveness power" is "olive oil", "whole wheat pasta" and "mineral water", meaning that if one of the products are picked, the likelihood of picking other products is higher. It can be used by the market to position the products closer (or farther), depending on the sales strategy.
 
-![image](Apriori.png = 250x)
+<img src="https://github.com/amyoshino/Recommendation-System-with-Apriori-and-ECLAT/blob/master/Apriori.png" width="150">
 
 #### ECLAT:
 ECLAT sort the most common combinations of all lists, not caring about how one item isolatedly can influence in the purchase of another. The score power shown in table below show those most picked products.
 
-![image](ECLAT_Pair.png = 250x)
+<img src="https://github.com/amyoshino/Recommendation-System-with-Apriori-and-ECLAT/blob/master/ECLAT_Pair.png" width="150">
 
 
