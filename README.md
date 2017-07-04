@@ -20,6 +20,6 @@ The table show the "lift" of every combination of products for Apriori algorithm
 #### ECLAT:
 ECLAT sort the most common combinations of all lists, not caring about how one item isolatedly can influence in the purchase of another. The score power shown in table below show those most picked products.
 
-![](ECLAT Pair)
+![](ECLAT Pair.png)
 
 
